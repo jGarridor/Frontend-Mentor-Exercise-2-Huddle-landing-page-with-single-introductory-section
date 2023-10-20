@@ -1,11 +1,11 @@
 @font-face {
     font-family: "Poppins";
-    src: url(./Fonts/Poppins/Poppins-Regular.ttf);
+    src: url(./Poppins/Poppins-Regular.ttf);
 }
 
 @font-face {
     font-family: "Open_Sans";
-    src: url(./Fonts/Open_Sans/OpenSans-VariableFont_wdth\,wght.ttf);
+    src: url(./OpenSans-VariableFont_wdth\,wght.ttf);
 }
 
 :root {
