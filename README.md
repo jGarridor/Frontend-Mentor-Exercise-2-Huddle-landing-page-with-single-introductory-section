@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: https://jgarridor.github.io/Frontend-Mentor-Exercise-2-Huddle-landing-page-with-single-introductory-section/
+- Live Site URL: https://jgarridor.github.io/Huddle-landing-page/
 
 ## My process
 
